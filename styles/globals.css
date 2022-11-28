@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .bg-bright-orange {
+    background-color: hsl(31, 77%, 52%);
+}
+
+.bg-dark-cyan {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.bg-very-dark-cyan {
+    background-color: hsl(179, 100%, 13%);
+}
+
+.bg-very-light-gray {
+    background-color: hsl(0, 0%, 95%);
+}
+
+.color-very-light-gray {
+    color: hsl(0, 0%, 95%);
+}
+
+.color-transparent-white {
+    color: hsla(0, 0%, 100%, 0.75);
+} */

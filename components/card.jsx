@@ -11,7 +11,7 @@ function Card({ title, body, color, icon }) {
             </div>
 
 
-            <button className={`text-${color} bg-veryLightGray py-3 px-8 rounded-full font-lexendDeca text-15px`}>Learn More</button>
+            <button className={`text-${color} bg-veryLightGray py-3 px-8 rounded-full font-lexendDeca text-15px mt-12 md:mt-0 hover:bg-transparent hover:text-veryLightGray border-2 hover:border-veryLightGray `}>Learn More</button>
         </div>
     )
 }
